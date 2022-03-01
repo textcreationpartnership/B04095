@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mournefull epitaph upon the death of that reverend vvorthy pastor Mr. Iohn Rogers, late preacher of Gods vvord at Dedham in Essex, vvho departed this life the 18 of October in the yeere 1636.</title>
+            <author>I. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04095</idno>
+            <idno type="STC">Wing L24</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[125]</idno>
+            <idno type="EEBO-CITATION">99885216</idno>
+            <idno type="PROQUEST">ocm99885216</idno>
+            <idno type="VID">182609</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04095)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182609)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[125])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mournefull epitaph upon the death of that reverend vvorthy pastor Mr. Iohn Rogers, late preacher of Gods vvord at Dedham in Essex, vvho departed this life the 18 of October in the yeere 1636.</title>
+                  <author>I. L.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Come helpe us mourn good sheph- ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogers, John, 1572?-1636 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182609:1" rendition="simple:additions"/>
+            <head>A mournefull Epitaph upon the death of that reverend vvorthy Paſtor Mr. IOHN ROGERS, late preacher of Gods vvord at Dedham in Eſſex, vvho departed this life the 18 of October in the yeere 1636.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>
+                  <seg rend="decorInit">C</seg>Ome helpe us mourn good Sheph<g ref="char:EOLhyphen"/>erds all,</l>
+               <l>who love Chriſts flock in deed</l>
+               <l>Helpe us to beg, pleade, cry &amp; call,</l>
+               <l>in this our time of need.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Come weep and mourne both yong and old,</l>
+               <l>your harts to ſorrow move</l>
+               <l>Both Sheepe and Lambs all of his fould</l>
+               <l>shew forth your deereſt love.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Our joy is gone, our ſoules delight,</l>
+               <l>our bleſſed ſonne of thunder,</l>
+               <l>Our valiant champion in Gods ſight,</l>
+               <l>to breake ſinnes boults in ſunder.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>Our famous light which lately ſtood</l>
+               <l>on hill within our towne:</l>
+               <l>Whoſe beames were ſpread ſo farre abroad,</l>
+               <l>is now by death tooke downe.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Thoſe lively chriſtall ſtreames ſo pure,</l>
+               <l>with paſtures fresh and greene;</l>
+               <l>From us alas are lock't full ſure,</l>
+               <l>and can no more beſeene.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Oh mournefull flocke who art deprived</l>
+               <l>of ſuch a faithfull guide;</l>
+               <l>Whoſe drooping ſoules he hath reviv'd</l>
+               <l>full many a time and tide.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Our faithfull Moſes now is gone,</l>
+               <l>which ſtood up in the breach;</l>
+               <l>To ſtay Gods wrath with many a groane,</l>
+               <l>his hands to heaven did ſtretch.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>His life Gods glory did advance,</l>
+               <l>his doctrine good and plaine:</l>
+               <l>And by Gods holy ordinance,</l>
+               <l>he many a ſoule did gaine.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>No paine nor labour he did ſpare,</l>
+               <l>the hungry ſoules to feed,</l>
+               <l>Dividing out each one his share,</l>
+               <l>according to their need.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>A perſon grave, a patron rare,</l>
+               <l>moſt humble, godly, wiſe,</l>
+               <l>Whoſe preſence made the wicked feare,</l>
+               <l>when they beheld his eyes.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>His eares were open and attent,</l>
+               <l>to heare the poore mans cry:</l>
+               <l>And ſpeedily his heart was bent,</l>
+               <l>to find a remedy.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>To rich and poore, to old and yong,</l>
+               <l>moſt courteous mild and meeke,</l>
+               <l>The mourning ſoules he brought along,</l>
+               <l>and comforted the weake.</l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>Much comfort heere his ſoule poſſeſt,</l>
+               <l>his life fame, and renowne,</l>
+               <l>And now with Saints and Anglels bleſt,</l>
+               <l>he weares a glorious crowne.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>Where many a ſoule is gone before,</l>
+               <l>which he through Chriſt hath gain'd,</l>
+               <l>His glory shines as Sunne therefore,</l>
+               <l>and never shall be ſtained.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>You paſtors all of Chriſt his fould,</l>
+               <l>of ſoules who have the charge,</l>
+               <l>See heere a patterne to behold,</l>
+               <l>your duties to your charge.</l>
+            </lg>
+            <lg n="16">
+               <head>16.</head>
+               <l>His faith, his love, his godly care,</l>
+               <l>his <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſinne to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>upp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſe:</l>
+               <l>His pitty <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>howes to ſuch as were,</l>
+               <l>in griefe and heavineſſe.</l>
+            </lg>
+            <lg n="17">
+               <head>17.</head>
+               <l>His humble heart did ſoone make peace,</l>
+               <l>by arbitration wife,</l>
+               <l>All jars and ſtrifes he made to ceaſe,</l>
+               <l>twixt neighbours that did riſe.</l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>But now thoſe ioyfull dayes are gone,</l>
+               <l>which made our hearts ſo glad,</l>
+               <l>And comfort brought to many one,</l>
+               <l>when ſorrow made them ſad.</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>Our Zion temple ſongs doe ceaſe,</l>
+               <l>our burning shining light</l>
+               <l>Is gone to everlaſting peace,</l>
+               <l>and bids us all good night.</l>
+            </lg>
+            <lg n="20">
+               <head>20.</head>
+               <l>Our conſtant Lector twelve dayes fame,</l>
+               <l>and ioy of Saints all round,</l>
+               <l>To which Gods armies flocking came,</l>
+               <l>to heare his doctrine ſound,</l>
+            </lg>
+            <lg n="21">
+               <head>21.</head>
+               <l>Gods holy Law and Goſpell pure,</l>
+               <l>he preach't with courage bould,</l>
+               <l>Whereby he many did allure,</l>
+               <l>and brought to Chriſt his fould.</l>
+            </lg>
+            <lg n="22">
+               <head>22.</head>
+               <l>The poore and hungry ſoules alway,</l>
+               <l>with good things he did fill,</l>
+               <l>The rich, nor any went away,</l>
+               <l>without Gods mind and will.</l>
+            </lg>
+            <lg n="23">
+               <head>23.</head>
+               <l>Moſt faithfully he preach't Gods will,</l>
+               <l>with wiſedome from above,</l>
+               <l>And left for to direct us ſtill,</l>
+               <l>his booke of faith and love.</l>
+            </lg>
+            <lg n="24">
+               <head>24.</head>
+               <l>Gods counſell and the narrow way,</l>
+               <l>he clearely did unfold.</l>
+               <l>Without excuſe to leave all they.</l>
+               <l>that would not be controld.</l>
+            </lg>
+            <lg n="25">
+               <head>25.</head>
+               <l>His proudeſt foes on overy ſide,</l>
+               <l>who ſought his deprivation,</l>
+               <l>He ſtill did overcome their pride,</l>
+               <l>by humble converſation,</l>
+            </lg>
+            <lg n="26">
+               <head>26.</head>
+               <l>Againſt hels force and Satans rage,</l>
+               <l>God kept him in his ſtation,</l>
+               <l>And ſtill preſerved him in his old age,</l>
+               <l>in <hi>Dedhams</hi> congregation.</l>
+            </lg>
+            <lg n="27">
+               <head>27.</head>
+               <l>From weeke to weeke, from day to day,</l>
+               <l>he cryed in our eares:</l>
+               <l>And this he did without delay,</l>
+               <l>the ſpace of thirty yeeres.</l>
+            </lg>
+            <lg n="28">
+               <head>28.</head>
+               <l>In zeale he was a flaming fire,</l>
+               <l>yet humble and diſcreet.</l>
+               <l>Which made his chiefeſt foes admire,</l>
+               <l>and ſwadged their malice great.</l>
+            </lg>
+            <lg n="29">
+               <head>29.</head>
+               <l>They often ſought for to prevaile</l>
+               <l>to take away our ioy,</l>
+               <l>To quench our light they did aſſaile,</l>
+               <l>our glory to deſtroy.</l>
+            </lg>
+            <lg n="30">
+               <head>30.</head>
+               <l>But God did guard his choice elect,</l>
+               <l>who worthy was through Chriſt.</l>
+               <l>From dangers all did him protect,</l>
+               <l>and tooke him home at laſt.</l>
+            </lg>
+            <lg n="31">
+               <head>31.</head>
+               <l>The time of life that God him lent,</l>
+               <l>was threeſcore yeeres and ſeven,</l>
+               <l>The greateſt part of which he ſpent,</l>
+               <l>to bring soules unto heaven.</l>
+            </lg>
+            <lg n="32">
+               <head>32.</head>
+               <l>Oh happy <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and bleſſed gain,</l>
+               <l>good time <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him to die,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>.</l>
+            </lg>
+            <lg n="33">
+               <head>33.</head>
+               <l>Yet happy now likewiſe are they,</l>
+               <l>which are in ſtate of grace,</l>
+               <l>And were ſo wiſe that in their dayes,</l>
+               <l>with God they made their peace.</l>
+            </lg>
+            <lg n="34">
+               <head>34.</head>
+               <l>Now magnifie the providence,</l>
+               <l>of Gods election ſtrong,</l>
+               <l>That he ſuch dayes by ſure defence,</l>
+               <l>in mercy did prolong.</l>
+            </lg>
+            <lg n="35">
+               <head>35.</head>
+               <l>And now hold faſt with diligence,</l>
+               <l>the trueths which you have learn'd</l>
+               <l>And bring forth fruit with patience,</l>
+               <l>that grace may be diſcern'd.</l>
+            </lg>
+            <lg n="36">
+               <head>36.</head>
+               <l>Thoſe graces learne to imitate,</l>
+               <l>in him which shines ſo bright,</l>
+               <l>So shalt thou live in happy ſtate,</l>
+               <l>and pleaſing in Gods ſight.</l>
+            </lg>
+            <lg n="37">
+               <head>37.</head>
+               <l>A wife hath loſt a heavenly head,</l>
+               <l>children a father deare,</l>
+               <l>A loſſe to all on every ſide,</l>
+               <l>and to his flocke moſt neere,</l>
+            </lg>
+            <lg n="38">
+               <head>38.</head>
+               <l>His houſe a bleſſed <hi>Bethel</hi> was,</l>
+               <l>as plainely did appeare:</l>
+               <l>He lived to ſee his fruits in grace.</l>
+               <l>on all his children deare.</l>
+            </lg>
+            <lg n="39">
+               <head>39.</head>
+               <l>But now alas what shall we doe</l>
+               <l>Gods anger to revoke.</l>
+               <l>Our ſinfulneſſe have brought us to</l>
+               <l>this ſad and heavy ſtroake.</l>
+            </lg>
+            <lg n="40">
+               <head>40.</head>
+               <l>Our ſleepy formall careleſneſſe,</l>
+               <l>in hearing of Gods word:</l>
+               <l>Vnfruitfull barren heartedneſſe,</l>
+               <l>though we with meanes were ſtored.</l>
+            </lg>
+            <lg n="41">
+               <head>41.</head>
+               <l>All thoſe that have worne out this light,</l>
+               <l>and yet remaine all darke,</l>
+               <l>How shall it now their ſoules affright,</l>
+               <l>to weare this curſed marke.</l>
+            </lg>
+            <lg n="42">
+               <head>42.</head>
+               <l>Now let us all repent and pray,</l>
+               <l>with zeale and fervency,</l>
+               <l>That of the Lord obtaine we may,</l>
+               <l>ſome comfort and ſupply.</l>
+            </lg>
+            <lg n="43">
+               <head>43.</head>
+               <l>Our King and Counſell Lord preſerve,</l>
+               <l>and all of each degree,</l>
+               <l>That from his trueth we may not ſwerve,</l>
+               <l>but therein live and die.</l>
+            </lg>
+            <lg n="44">
+               <head>44.</head>
+               <l>That with him that's gone before,</l>
+               <l>a kingdome may obtaine.</l>
+               <l>And then with Saints for evermore,</l>
+               <l>in glory may remaine.</l>
+            </lg>
+            <div type="acrostic_poem">
+               <head>AN EPIGRAM.</head>
+               <lg>
+                  <l>
+                     <hi>I</hi> n morning wake with God, and beg his grace,</l>
+                  <l>
+                     <hi>O</hi> ffend not his good ſpirit in any caſe,</l>
+                  <l>
+                     <hi>H</hi> ang faſt on Chriſt, cleave cloſſe unto his word,</l>
+                  <l>
+                     <hi>N</hi> o time forget to weare the chriſtian ſword,</l>
+                  <l>
+                     <hi>R</hi> un cheerefully your generall is before,</l>
+                  <l>
+                     <hi>O</hi> ur bleſſed captain Christ hath opened the doore</l>
+                  <l>
+                     <hi>G</hi> ot victory againſt ſin, death, and hell,</l>
+                  <l>
+                     <hi>E</hi> ternall life for are with him shall dwell,</l>
+                  <l>
+                     <hi>R</hi> eturne my ſoule goe fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rth unto thy reſt,</l>
+                  <l>
+                     <hi>S</hi> trange joyes are gone which cannot be expreſt.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
